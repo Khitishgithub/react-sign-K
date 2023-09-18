@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-sign-K/static/css/main.c98c8268.css",
+    "main.js": "/react-sign-K/static/js/main.b0cc25a1.js",
+    "static/js/787.39bb0775.chunk.js": "/react-sign-K/static/js/787.39bb0775.chunk.js",
+    "static/media/nature img.jpg": "/react-sign-K/static/media/nature img.0d9300b887e1927ab461.jpg",
+    "index.html": "/react-sign-K/index.html",
+    "main.c98c8268.css.map": "/react-sign-K/static/css/main.c98c8268.css.map",
+    "main.b0cc25a1.js.map": "/react-sign-K/static/js/main.b0cc25a1.js.map",
+    "787.39bb0775.chunk.js.map": "/react-sign-K/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c98c8268.css",
+    "static/js/main.b0cc25a1.js"
+  ]
+}
